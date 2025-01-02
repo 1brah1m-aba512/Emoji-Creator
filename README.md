@@ -7,7 +7,7 @@ This C++ program demonstrates object-oriented programming by designing an emotic
 - Demonstrates information hiding and encapsulation.
 
 ## Requirements
-- A suitable .ppm file viewer such as gimp is stringly advised to be used to see the image clearly
+- A suitable .ppm file viewer such as gimp is strongly advised to be used to see the image clearly
 
 ## How to Run
 1. Clone the repository: `git clone https://github.com/yourusername/EmojiCreator.git`
