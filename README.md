@@ -10,10 +10,10 @@ This C++ program demonstrates object-oriented programming by designing an emotic
 - A suitable .ppm file viewer such as gimp is strongly advised to be used to see the image clearly
 
 ## How to Run
-1. Clone the repository: `git clone https://github.com/yourusername/EmojiCreator.git`
-2. Navigate to the directory: `cd EmojiCreator`
-3. Compile the program: `g++ *.cpp -o EmojiCreator`
-4. Convert to PPM : `EmojiCreator -> Emoji.ppm` 
+1. Clone the repository: `git clone https://github.com/1brah1m-aba512/Emoji-Creator.git`
+2. Navigate to the directory: `cd Emoji-Creator`
+3. Compile the program: `g++ *.cpp -o Emoji-Creator`
+4. Convert to PPM : `Emoji-Creator -> Emoji.ppm` 
 5. Run the program: `./Emoji.ppm`
 
 ## Future Improvements
